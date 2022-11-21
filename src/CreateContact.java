@@ -28,6 +28,7 @@ public class CreateContact {
 
 	.moveToElement(driver.findElement(By.xpath("//a[text()='Sign Out']"))).click().perform();
 	driver.quit();
+	System.out.println("first");
 	}
 
 }
