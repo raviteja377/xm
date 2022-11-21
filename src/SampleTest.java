@@ -10,6 +10,7 @@ public class SampleTest {
 	System.out.println("ravi");
 
 	System.out.println("hello");
+	System.out.println("hi");
 
 	}
 
